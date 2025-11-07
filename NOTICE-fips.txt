@@ -5993,11 +5993,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exte
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/extension/extensiontest
-Version: v0.137.0
+Version: v0.138.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension/extensiontest@v0.137.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension/extensiontest@v0.138.0/LICENSE:
 
 
                                  Apache License
@@ -6930,11 +6930,11 @@ limitations under the License.
 
 --------------------------------------------------------------------------------
 Dependency : golang.org/x/crypto
-Version: v0.42.0
+Version: v0.43.0
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/golang.org/x/crypto@v0.42.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/golang.org/x/crypto@v0.43.0/LICENSE:
 
 Copyright 2009 The Go Authors.
 
@@ -7004,11 +7004,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 Dependency : golang.org/x/net
-Version: v0.44.0
+Version: v0.45.0
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/golang.org/x/net@v0.44.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/golang.org/x/net@v0.45.0/LICENSE:
 
 Copyright 2009 The Go Authors.
 
@@ -7078,11 +7078,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 Dependency : golang.org/x/sys
-Version: v0.36.0
+Version: v0.37.0
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/golang.org/x/sys@v0.36.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/golang.org/x/sys@v0.37.0/LICENSE:
 
 Copyright 2009 The Go Authors.
 
@@ -7115,11 +7115,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 Dependency : golang.org/x/term
-Version: v0.35.0
+Version: v0.36.0
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/golang.org/x/term@v0.35.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/golang.org/x/term@v0.36.0/LICENSE:
 
 Copyright 2009 The Go Authors.
 
@@ -7152,11 +7152,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 Dependency : golang.org/x/text
-Version: v0.29.0
+Version: v0.30.0
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/golang.org/x/text@v0.29.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/golang.org/x/text@v0.30.0/LICENSE:
 
 Copyright 2009 The Go Authors.
 
@@ -32849,11 +32849,11 @@ Contents of probable licence file $GOMODCACHE/github.com/elastic/opentelemetry-c
 
 --------------------------------------------------------------------------------
 Dependency : github.com/elastic/opentelemetry-collector-components/extension/apikeyauthextension
-Version: v0.8.0
+Version: v0.22.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/elastic/opentelemetry-collector-components/extension/apikeyauthextension@v0.8.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/elastic/opentelemetry-collector-components/extension/apikeyauthextension@v0.22.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
